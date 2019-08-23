@@ -1,4 +1,4 @@
-# hello-world
+# timeline for my project
 Just another repository
 My name is Maciaha, I love Crablegs
 Crablegs=best food in the world
