@@ -1,5 +1,7 @@
-# timeline for my project
-Just another repository
-My name is Maciaha, I love Crablegs
-Crablegs=best food in the world
-God is the head of my life<3
+# Timeline
+Start workimg on project: Wednesday,28th
+Everyone works on front page
+after front page, split pages per person
+Friday=chill day
+Proceed to work Monday-Thursday
+All MUST BE COMPLETED BY December,5th
