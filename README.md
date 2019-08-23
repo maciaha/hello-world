@@ -1,5 +1,5 @@
 # Timeline
-Start workimg on project: Wednesday,28th
+Start working on project: Wednesday,28th
 Everyone works on front page
 after front page, split pages per person
 Friday=chill day
